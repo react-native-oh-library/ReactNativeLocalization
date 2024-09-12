@@ -1,0 +1,12 @@
+{
+  "name": "@react-native-oh-tpl/react-native-localization",
+  "version": "2.3.2-0.0.1",
+  "description": "Simple module to localize the ReactNative interface",
+  "main": "index.ets",
+  "author": "",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "@rnoh/react-native-openharmony": "file:../libs/react_native_openharmony-5.0.0.490.har"
+  },
+}
+

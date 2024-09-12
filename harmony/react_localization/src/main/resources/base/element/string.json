@@ -1,0 +1,16 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "React_localizationAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "React_localizationAbility_label",
+      "value": "label"
+    }
+  ]
+}

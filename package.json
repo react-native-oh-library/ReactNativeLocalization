@@ -1,6 +1,6 @@
 {
-  "name": "react-native-localization",
-  "version": "2.3.2",
+  "name": "@react-native-oh-tpl/react-native-localization",
+  "version": "2.3.2-0.0.1",
   "description": "Simple module to localize the ReactNative interface",
   "main": "./lib/LocalizedStrings.js",
   "types": "./lib/LocalizedStrings.d.ts",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/stefalda/ReactNativeLocalization.git"
+    "url": "https://github.com/react-native-oh-library/ReactNativeLocalization"
   },
   "keywords": [
     "localization",
@@ -19,16 +19,25 @@
     "typescript",
     "ios",
     "android",
+    "harmony",
     "react",
     "react-native",
     "react-component"
   ],
+  "harmony": {
+    "alias": "react-native-localization",
+    "codegenConfig": {
+      "specPaths": [
+        "./src"
+      ]
+    }
+  },
   "author": "Stefano Falda <stefano.falda@gmail.com> (http://www.babisoft.com)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/stefalda/ReactNativeLocalization/issues"
+    "url": "https://github.com/react-native-oh-library/ReactNativeLocalization/issues"
   },
-  "homepage": "https://github.com/stefalda/ReactNativeLocalization",
+  "homepage": "https://github.com/react-native-oh-library/ReactNativeLocalization",
   "dependencies": {
     "react-localization": "^1.0.17"
   },
@@ -39,7 +48,8 @@
   "peerDependencies": {
     "react-native": ">0.64",
     "react-native-windows": ">0.64",
-    "react": ">15.6.0"
+    "react": ">15.6.0",
+    "react-native-localization": "^2.3.2"
   },
   "peerDependenciesMeta": {
     "react-native-windows": {

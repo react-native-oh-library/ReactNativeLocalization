@@ -4,6 +4,8 @@
 local.properties
 *.iml
 build
-/src
+/src/LocalizedStrings.js
+/src/LocalizedStrings.harmony.js
 .babelrc
+node_modules
 npm-instructions.txt

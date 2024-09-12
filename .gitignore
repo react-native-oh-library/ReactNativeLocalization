@@ -6,6 +6,7 @@ npm-instructions.txt
 local.properties
 *.iml
 build
+lib
 node_modules
 npm-instructions.txt
 .idea
