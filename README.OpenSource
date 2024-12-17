@@ -1,0 +1,11 @@
+[
+    {
+        "Name": "react-native-localization",
+        "License": "MIT",
+        "License File": "https://github.com/stefalda/ReactNativeLocalization/blob/master/LICENSE",
+        "Version Number": "2.3.2",
+        "Owner" : "xiafeng@huawei.com",
+        "Upstream URL": "https://github.com/stefalda/ReactNativeLocalization",
+        "Description": "Simple module to localize the ReactNative interface"
+    }
+]
