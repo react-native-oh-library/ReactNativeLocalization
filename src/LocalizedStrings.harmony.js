@@ -1,15 +1,7 @@
-/**
- * Class to localize the ReactNative interface
- *
- * Originally developed by Stefano Falda (stefano.falda@gmail.com)
- *
- * It uses a native library (ReactLocalization) to get the current interface language,
- * then display the correct language strings or the default language (the first
- * one if a match is not found).
- *
- * How to use:
- * Check the instructions at:
- * https://github.com/stefalda/ReactNativeLocalization
+/*
+ * Copyright (c) 2024 Huawei Device Co., Ltd. All rights reserved
+ * Use of this source code is governed by a MIT license that can be
+ * found in the LICENSE file.
  */
 "use strict";
 import { TurboModuleRegistry } from "react-native";
